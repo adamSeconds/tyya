@@ -1,2 +1,2 @@
 # buatadams
-nyoba
+ini adalah percobaan untuk mencoba memplajari GITHUB
